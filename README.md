@@ -8,12 +8,15 @@ Hi My name is Syed Sibtain
 Front End Developer
 -------------------
 
-Hello, my name is Syed Sibtain. I am a tech-savvy individual who loves to build things. I have started my journey in coding in the year 2021 and I absolutely love building things.
+I’m Syed Sibtain, a software developer with expertise in building scalable and user-friendly web applications. With 2+ years of experience, I specialize in full-stack development, working across React, Next.js, TypeScript, Ruby on Rails, and Node.js to deliver efficient and maintainable solutions.
+
+Passionate about clean code, performance optimization, and best practices, I actively contribute to open-source projects and write technical blogs to share insights with the dev community.
 
 * 🌍  I'm based in Bangalore, India.
 * 🖥️  See my portfolio at [My Portfolio](http://syed-sibtain.netlify.app/)
 * ✉️  You can contact me at [syedsibtain@gmail.com](mailto:syedsibtain@gmail.com)
-* 🧠  I'm learning Redux and Material UI.
+* 🧠  I'm learning RAG and AI stuff
+
 ### Problem solving is not just about coding. It's more about, understanding the problem, doing the research, implementing the solution, testing the break points, failing and keep repeating the process till its a success
 
 ![](https://komarev.com/ghpvc/?username=SyedSibtainRazvi&color=0891b2)
