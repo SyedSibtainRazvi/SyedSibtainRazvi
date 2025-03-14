@@ -14,7 +14,7 @@ Passionate about clean code, performance optimization, and best practices, I act
 
 * 🌍  I'm based in Bangalore, India.
 * 🖥️  See my portfolio at [My Portfolio](http://syed-sibtain.netlify.app/)
-* 🗒️  You can read my blogs at [Syed Sibtain Hashnode]https://hashnode.com/@SyedSibtain
+* 🗒️  You can read my blogs at [Syed Sibtain Hashnode](https://syedsibtain.hashnode.dev/)
 * ✉️  You can contact me at [syedsibtain@gmail.com](mailto:syedsibtain@gmail.com)
 * 🧠  I'm learning RAG and AI stuff
 
