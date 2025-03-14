@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 Hi My name is Syed Sibtain
 =============================
 
-Front End Developer
+Fullstack Developer
 -------------------
 
 I’m Syed Sibtain, a software developer with expertise in building scalable and user-friendly web applications. With 2+ years of experience, I specialize in full-stack development, working across React, Next.js, TypeScript, Ruby on Rails, and Node.js to deliver efficient and maintainable solutions.
@@ -14,6 +14,7 @@ Passionate about clean code, performance optimization, and best practices, I act
 
 * 🌍  I'm based in Bangalore, India.
 * 🖥️  See my portfolio at [My Portfolio](http://syed-sibtain.netlify.app/)
+* 🗒️  You can read my blogs at [Syed Sibtain Hashnode]https://hashnode.com/@SyedSibtain
 * ✉️  You can contact me at [syedsibtain@gmail.com](mailto:syedsibtain@gmail.com)
 * 🧠  I'm learning RAG and AI stuff
 
