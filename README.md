@@ -5,18 +5,23 @@ You can click the Preview link to take a look at your changes.
 Hi My name is Syed Sibtain
 =============================
 
-Fullstack Developer
+Fullstack Developer • Builder at Heart
 -------------------
+I’m a self-taught software developer with a passion for building—from small tools to scalable web apps. Over the past 3 years, I've grown from hacking together simple projects to designing performant and maintainable full-stack systems using React, Next.js, TypeScript, Node.js and Ruby on Rails.
 
-I’m Syed Sibtain, a software developer with expertise in building scalable and user-friendly web applications. With 2+ years of experience, I specialize in full-stack development, working across React, Next.js, TypeScript, Ruby on Rails, and Node.js to deliver efficient and maintainable solutions.
+I love learning in public, contributing to open source, and sharing my thoughts through technical blogs. I believe in progress over perfection—and I build every day to get a little better than yesterday.
 
-Passionate about clean code, performance optimization, and best practices, I actively contribute to open-source projects and write technical blogs to share insights with the dev community.
+* 🌍  Based in Bangalore, India  
+* 🖥️  [My Portfolio](https://syedsibtain.vercel.app/)
+* 🛠️  [My Personal Blog App](https://syedsibtainblogs.vercel.app/) 
+* 🗒️  [My Blogs on Hashnode](https://syedsibtain.hashnode.dev/)  
+* ✉️  Reach me at [syedsibtain@gmail191.com](mailto:syedsibtain191@gmail.com)  
+* 🧠  Currently learning Retrieval-Augmented Generation (RAG) and exploring AI tools
 
-* 🌍  I'm based in Bangalore, India.
-* 🖥️  See my portfolio at [My Portfolio](http://syed-sibtain.netlify.app/)
-* 🗒️  You can read my blogs at [Syed Sibtain Hashnode](https://syedsibtain.hashnode.dev/)
-* ✉️  You can contact me at [syedsibtain@gmail.com](mailto:syedsibtain@gmail.com)
-* 🧠  I'm learning RAG and AI stuff
+My journey has been incremental:  
+* I started with my **first portfolio**, showcasing basic html projects. [Portfolio1](https://sibtain.netlify.app/)
+* After gaining some hands-on experience on React, I built a **second version** with more structure and better design.  [Portfolio2](https://syed-sibtain.netlify.app/)
+* Today, my **current portfolio** reflects who I am as a developer—focused on clean code, performance, and user experience. [My Portfolio](https://syedsibtain.vercel.app/)
 
 ### Problem solving is not just about coding. It's more about, understanding the problem, doing the research, implementing the solution, testing the break points, failing and keep repeating the process till its a success
 
