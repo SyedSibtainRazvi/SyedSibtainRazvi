@@ -21,7 +21,7 @@ I love learning in public, contributing to open source, and sharing my thoughts 
 My journey has been incremental:  
 * I started with my **first portfolio**, showcasing basic html projects. [Portfolio1](https://sibtain.netlify.app/)
 * After gaining some hands-on experience on React, I built a **second version** with more structure and better design.  [Portfolio2](https://syed-sibtain.netlify.app/)
-* Today, my **current portfolio** reflects who I am as a developer—focused on clean code, performance, and user experience. [My Portfolio](https://syedsibtain.vercel.app/)
+* My **current portfolio** reflects who I am as a developer—focused on clean code, performance, and user experience. [My Portfolio](https://syedsibtain.vercel.app/)
 
 ### Problem solving is not just about coding. It's more about, understanding the problem, doing the research, implementing the solution, testing the break points, failing and keep repeating the process till its a success
 
@@ -42,12 +42,6 @@ My journey has been incremental:
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/SyedSibtainRazvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/syed-sibtain/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### My GitHub Stats
+### GitHub Stats
 
 <a href="http://www.github.com/SyedSibtainRazvi"><img src="https://github-readme-stats.vercel.app/api?username=SyedSibtainRazvi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SyedSibtainRazvi's GitHub stats" /></a>
-
-<a href="https://github.com/SyedSibtainRazvi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSibtainRazvi&hide=python,Nix&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
