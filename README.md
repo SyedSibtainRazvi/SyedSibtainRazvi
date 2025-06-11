@@ -19,9 +19,9 @@ I love learning in public, contributing to open source, and sharing my thoughts 
 * 🧠  Currently learning Retrieval-Augmented Generation (RAG) and exploring AI tools
 
 My journey has been incremental:  
-* I started with my **first portfolio**, showcasing basic html projects. [Portfolio1](https://sibtain.netlify.app/)
-* After gaining some hands-on experience on React, I built a **second version** with more structure and better design.  [Portfolio2](https://syed-sibtain.netlify.app/)
-* My **current portfolio** reflects who I am as a developer—focused on clean code, performance, and user experience. [My Portfolio](https://syedsibtain.vercel.app/)
+* I started with my **[first portfolio](https://sibtain.netlify.app/)**, showcasing basic html projects.
+* After gaining some hands-on experience on React, I built a **[second version](https://syed-sibtain.netlify.app/)** with more structure and better design.
+* My **[current portfolio](https://syedsibtain.vercel.app/)** reflects who I am as a developer—focused on clean code, performance, and user experience.
 
 ### Problem solving is not just about coding. It's more about, understanding the problem, doing the research, implementing the solution, testing the break points, failing and keep repeating the process till its a success
 
