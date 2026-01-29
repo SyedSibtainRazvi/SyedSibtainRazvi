@@ -11,6 +11,12 @@ I’m a self-taught software developer with a passion for building—from small 
 
 I love learning in public, contributing to open source, and sharing my thoughts through technical blogs. I believe in progress over perfection—and I build every day to get a little better than yesterday.
 
+### Current AI Projects
+
+- **Diff → Intent** — Understand *why* a code change was made, not just *what* changed.  
+  🔗 https://www.npmjs.com/package/diff-intent
+
+__________________________________________________________________________________________________________
 * 🌍  Based in Bangalore, India  
 * 🖥️  [My Portfolio](https://syedsibtain.vercel.app/)
 * 🛠️  [My Personal Blog App](https://syedsibtainblogs.vercel.app/) 
@@ -41,7 +47,3 @@ My journey has been incremental:
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-### GitHub Stats
-
-<a href="http://www.github.com/SyedSibtainRazvi"><img src="https://github-readme-stats.vercel.app/api?username=SyedSibtainRazvi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SyedSibtainRazvi's GitHub stats" /></a>
