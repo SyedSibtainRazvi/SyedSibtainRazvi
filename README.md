@@ -14,6 +14,7 @@ I love learning in public, contributing to open source, and sharing my thoughts 
 ### Current AI Projects
 
 - **Diff → Intent** — Understand *why* a code change was made, not just *what* changed.  
+  Built to solve the pain of tracking intent in large diffs where plain `git diff` falls short.  
   🔗 https://www.npmjs.com/package/diff-intent
 
 __________________________________________________________________________________________________________
