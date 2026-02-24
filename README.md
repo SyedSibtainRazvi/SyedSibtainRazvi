@@ -16,6 +16,9 @@ I love learning in public, contributing to open source, and sharing my thoughts 
 - **Diff → Intent** — Understand *why* a code change was made, not just *what* changed.  
   Built to solve the pain of tracking intent in large diffs where plain `git diff` falls short.  
   🔗 https://www.npmjs.com/package/diff-intent
+- **context0** — git-scoped session state for AI coding agents.                      
+  Save where you left off. Resume in any AI tool — Claude Code, Cursor, Codex — context follows your git branch.                                                     
+  🔗 https://github.com/SyedSibtainRazvi/context0   
 
 __________________________________________________________________________________________________________
 * 🌍  Based in Bangalore, India  
