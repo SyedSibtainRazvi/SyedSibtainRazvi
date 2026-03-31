@@ -14,7 +14,7 @@ Tools that give AI coding agents better context, better specs, and better inputs
 - **[diff-intent](https://www.npmjs.com/package/diff-intent)** — AI-powered git diff analysis. Understand *why* a change was made, not just what changed. `TypeScript`
 - **[Idle](https://github.com/SyedSibtainRazvi/Idle)** — macOS terminal that teaches you while your AI agents code. Built on LibGhosty + Claude. `Swift`
 - **[PullProof](https://github.com/SyedSibtainRazvi/PullProof)** — Proofreads every pull request like an editor. `TypeScript`
-- **[Drafte](https://drafte.app)** — Decisions before code, not code before decisions. Launched on [Product Hunt](https://www.producthunt.com/products/drafte).
+- **[Drafte](https://drafte.app)** — Decisions before code, not code before decisions. Launched on [Product Hunt](https://www.producthunt.com/products/drafte-2).
 
 ---
 
