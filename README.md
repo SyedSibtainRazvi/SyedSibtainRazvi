@@ -1,53 +1,31 @@
-<!---
-SyedSibtainRazvi/SyedSibtainRazvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Hi My name is Syed Sibtain
-=============================
+### Syed Sibtain
 
-Fullstack Developer • Builder at Heart
--------------------
-I’m a self-taught software developer with a passion for building—from small tools to scalable web apps. Over the past 3 years, I've grown from hacking together simple projects to designing performant and maintainable full-stack systems using React, Next.js, TypeScript, Node.js and Ruby on Rails.
+**Builder.** Self-taught engineer. Building infra for AI coding agents.
 
-I love learning in public, contributing to open source, and sharing my thoughts through technical blogs. I believe in progress over perfection—and I build every day to get a little better than yesterday.
+> The bottleneck in AI coding isn't the model. It's the input.
 
-### Current AI Projects
+---
 
-- **Diff → Intent** — Understand *why* a code change was made, not just *what* changed.  
-  Built to solve the pain of tracking intent in large diffs where plain `git diff` falls short.  
-  🔗 https://www.npmjs.com/package/diff-intent
-- **context0** — git-scoped session state for AI coding agents.                      
-  Save where you left off. Resume in any AI tool — Claude Code, Cursor, Codex — context follows your git branch.                                                     
-  🔗 https://github.com/SyedSibtainRazvi/context0   
+#### What I'm Building
 
-__________________________________________________________________________________________________________
-* 🌍  Based in Bangalore, India  
-* 🖥️  [My Portfolio](https://syedsibtain.vercel.app/)
-* 🛠️  [My Personal Blog App](https://syedsibtainblogs.vercel.app/) 
-* 🗒️  [My Blogs on Hashnode](https://syedsibtain.hashnode.dev/)  
-* ✉️  Reach me at [syedsibtain@gmail191.com](mailto:syedsibtain191@gmail.com)  
-* 🧠  Currently learning Retrieval-Augmented Generation (RAG) and exploring AI tools
+Tools that give AI coding agents better context, better specs, and better inputs.
 
-My journey has been incremental:  
-* I started with my **[first portfolio](https://sibtain.netlify.app/)**, showcasing basic html projects.
-* After gaining some hands-on experience on React, I built a **[second version](https://syed-sibtain.netlify.app/)** with more structure and better design.
-* My **[current portfolio](https://syedsibtain.vercel.app/)** reflects who I am as a developer—focused on clean code, performance, and user experience.
+- **[context0](https://github.com/SyedSibtainRazvi/context0)** — Git-scoped session state for AI coding agents. Save where you left off, resume in any tool. `Rust`
+- **[diff-intent](https://www.npmjs.com/package/diff-intent)** — AI-powered git diff analysis. Understand *why* a change was made, not just what changed. `TypeScript`
+- **[Idle](https://github.com/SyedSibtainRazvi/Idle)** — macOS terminal that teaches you while your AI agents code. Built on LibGhosty + Claude. `Swift`
+- **[PullProof](https://github.com/SyedSibtainRazvi/PullProof)** — Proofreads every pull request like an editor. `TypeScript`
+- **[Drafte](https://drafte.app)** — Decisions before code, not code before decisions. Launched on [Product Hunt](https://www.producthunt.com/products/drafte).
 
-### Problem solving is not just about coding. It's more about, understanding the problem, doing the research, implementing the solution, testing the break points, failing and keep repeating the process till its a success
+---
 
-![](https://komarev.com/ghpvc/?username=SyedSibtainRazvi&color=0891b2)
+#### Background
 
+Electrical engineering degree. Started in customer support. Taught myself to code. 4 years building full-stack systems and AI tooling.
 
-### Skills
+I write about frontend architecture, AI agents, and the broken PM-to-dev handoff on [Hashnode](https://syedsibtain.hashnode.dev) and [LinkedIn](https://linkedin.com/in/syed-sibtain).
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+---
+
+#### Tech
+
+`TypeScript` `Next.js` `React` `Node.js` `Rust` `Swift` `Prisma` `Tailwind` `LangGraph` `Claude SDK` `OpenAI SDK`
