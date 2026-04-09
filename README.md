@@ -1,12 +1,12 @@
 ### Syed Sibtain
 
-**Builder.** Self-taught engineer. Building infra for AI coding agents.
+**Builder.** Self-taught engineer. Building tools for AI coding agents..
 
 > The bottleneck in AI coding isn't the model. It's the input.
 
 ---
 
-#### What I'm Building
+#### What I've Shipped
 
 Tools that give AI coding agents better context, better specs, and better inputs.
 
@@ -22,7 +22,7 @@ Tools that give AI coding agents better context, better specs, and better inputs
 
 Electrical engineering degree. Started in customer support. Taught myself to code. 4 years building full-stack systems and AI tooling.
 
-I write about frontend architecture, AI agents, and the broken PM-to-dev handoff on [Hashnode](https://syedsibtain.hashnode.dev) and [LinkedIn](https://linkedin.com/in/syed-sibtain).
+I write about frontend architecture, AI agents, and developer tooling on [Hashnode](https://syedsibtain.hashnode.dev) and [LinkedIn](https://linkedin.com/in/syed-sibtain).
 
 ---
 
