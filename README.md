@@ -10,7 +10,7 @@
 
 Tools that give AI coding agents better context, better specs, and better inputs.
 
-- **[context0](https://syedsibtainrazvi.github.io/context0/)** — Git-scoped session state for AI coding agents. Save where you left off, resume in any tool.
+- **[context0](https://context-0.vercel.app/)** — Git-scoped session state for AI coding agents. Save where you left off, resume in any tool.
 - **[diff-intent](https://www.npmjs.com/package/diff-intent)** — AI-powered git diff analysis. Understand *why* a change was made, not just what changed.
 - **[Idle](https://github.com/SyedSibtainRazvi/Idle)** — macOS terminal that teaches you while your AI agents code. Built on LibGhosty + Claude.
 - **[PullProof](https://github.com/SyedSibtainRazvi/PullProof)** — Proofreads every pull request like an editor.
